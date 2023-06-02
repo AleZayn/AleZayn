@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hey, I'm Ali Zain! 👋
 
-<!--
-**AleZayn/AleZayn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently on the path of front-end development with a strong skill set in JavaScript. I am based in Vicenza. 🇮🇹
 
-Here are some ideas to get you started:
+Since February 2023, I have been living and learning web development, striving to create modern and user-friendly interfaces. My goal is to contribute to making this world a little better through JavaScript code. :collision:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> I am deeply committed to embracing the "Keep it simple, stupid" (KISS) principle, as I prioritize continuous learning in coding. I believe in the power of simplicity and strive to write clean, efficient, and maintainable code.
+
+I am always seeking opportunities to grow and learn something new. Currently, my main focus is on improving my JavaScript skills.
+
+## Skill Set
+
+ ![My Skills](https://skillicons.dev/icons?i=js,html,css)
+
+## Find Me Elsewhere :earth_americas:
+
+- [LinkedIn](https://www.linkedin.com/in/al%C3%ACzain/)
